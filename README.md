@@ -1,6 +1,7 @@
 # Developer Job Role Values
 
 Upvote the most important values to you by adding an emoji!
+
 🥰🦄🥳🧸🤩👍🏻🧚🏻‍♀️🧚🏻‍♂️💃🏻🕺🏻🐸
 
 Or, add a comment with your value if it's not there.
