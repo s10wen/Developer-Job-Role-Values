@@ -8,6 +8,7 @@ Or, add a comment with your value if it's not there.
 
 https://github.com/s10wen/Developer-Job-Role-Values/issues/1
 
-Shared Resources:
+## Shared Resources
+
 - https://handbook.hmn.md/
 - https://github.com/madetech/handbook
